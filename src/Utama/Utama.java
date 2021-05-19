@@ -18,7 +18,7 @@ public class Utama {
             System.out.println(" Rental DVD Suka Suka ");
             System.out.println("-------------------------");
             System.out.println(" Denpasar Renon Bali");
-            Petugas hallo = new Petugas();
+            Petugas hallo = new Petugas("Susilo");
             hallo.HiPetugas();
             int pil;
             do {
